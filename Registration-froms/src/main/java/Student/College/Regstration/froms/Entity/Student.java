@@ -8,7 +8,7 @@ import lombok.Setter;
 import org.springframework.boot.autoconfigure.web.WebProperties;
 
 @Entity
-@Table(name ="from")
+@Table(name ="Student")
 @Getter
 @Setter
 @NoArgsConstructor

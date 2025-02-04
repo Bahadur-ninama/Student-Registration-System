@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.*;
 
 
 @org.springframework.stereotype.Controller
-@RequestMapping("student")
+
 public class StudentController {
     @Autowired
     private StudentService studentService;
